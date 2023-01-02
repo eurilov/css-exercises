@@ -1,0 +1,22 @@
+.odd{
+    background-color: rgb(225, 157, 167);
+    font-family: verdana,Georgia, 'Times New Roman', Times, serif
+}
+
+#number2{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(13, 13, 161);
+}
+
+.fnt24{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: rgb(95, 213, 95);
+    color: black;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
